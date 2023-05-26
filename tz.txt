@@ -1,0 +1,6 @@
+# спарсить сайт http://kenesh.kg/ru/news/all/list
+# включая пагинацию
+# img, date, title
+# сохранить csv
+# закинуть на github
+
